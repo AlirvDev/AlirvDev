@@ -70,13 +70,19 @@ I'm a Frontend Developer focused on creating modern web applications.
 ## 📫 Connect With Me
 
 
+
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/AlirvDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:alirezavafayi2000@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
 
 
 <div align="center">
