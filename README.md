@@ -58,23 +58,11 @@ I'm a Frontend Developer focused on creating modern web applications.
 </p>
 
 
-## 🧩 Featured Projects
-
-🚀 **Project Name**
-- Angular / React application
-- Responsive UI
-- Modern frontend architecture
-
-
-🚀 **Project Name**
-- Built with TypeScript
-- Component based design
 
 
 ## 📚 Currently Learning
 
 - Advanced Angular
-- React Architecture
 - TypeScript Patterns
 - UI/UX Principles
 
